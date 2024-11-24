@@ -8,7 +8,7 @@ Therefore, besides the dead zone at the beginning, it also scales further values
 
 ### TODO
 
-- [x] - Implement the basic principle
-- [ ] - Create readable and configurable format of config
-- [ ] - Create more profiles for config*
-- [ ] - Create ui**
+- [x] Implement the basic principle
+- [ ] Create readable and configurable format of config
+- [ ] Create more profiles for config*
+- [ ] Create ui**
